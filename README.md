@@ -13,5 +13,9 @@ Los cuales corresponden a la traducción de ingles a español para las validacio
 # Modo de Uso:
 
 1. Descargar la carpeta "es" y almacenarla en la ubicacion del proyecto dentro de la carpeta "resources/lang".
-2. Modificar la configuración del archivo "config/app.php", en la linea: 'locale' => 'en', y cambiarla por 'locale' => 'es',. (Conservando la coma para evitar errores)   
+2. Modificar la configuración del archivo "config/app.php", en la linea:  
+ ```
+   'locale' => 'en' 
+ ```  , y cambiarla por:
+ ``` 'locale' => 'es' ``` 
 
